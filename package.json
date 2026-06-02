@@ -1,0 +1,16 @@
+{
+  "name": "smart-ecommerce-system-web",
+  "version": "1.0.0",
+  "description": "A lightweight web interface and API for the Smart Ecommerce System.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "web",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT"
+}

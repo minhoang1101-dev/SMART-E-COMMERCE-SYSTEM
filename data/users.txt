@@ -1,0 +1,3 @@
+admin|admin123|admin
+minhoang|123456|customer
+phatngu123|1234|customer
